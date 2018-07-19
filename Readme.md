@@ -7,6 +7,6 @@ MICROCONTROLLER: ARM TM4C123GH6PM
 SERVO: MICRO SERVO 9g
 
 ### Notice:
-Some parts of the code I has utilized the code by KristjanB, so all credits to him: [KristjanB](https://github.com/KristjanB/DIY-Quadcopter-Flight-Controller/blob/master/LICENSE)
+Some parts of the code I has utilized the code by [KristjanB](https://github.com/KristjanB/DIY-Quadcopter-Flight-Controller/blob/master/LICENSE), so all credits to him.
 
 Enjoy ;)
